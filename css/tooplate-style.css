@@ -168,7 +168,7 @@ footer a:link, footer a:visited {
   position: static;
 }
 
-.tm-logo-box {
+.tm-barcode-box {
   margin-bottom: 30px;
   margin-left: 95px;
 }
@@ -651,9 +651,3 @@ figure.effect-goliath:hover p {
 .tm-static {
   position: static;
 }
-
-/* My Own Style */
-.blue {
-  color: blue;
-}
-  
